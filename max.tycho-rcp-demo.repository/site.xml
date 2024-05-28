@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/max.tycho-rcp-demo.feature_1.0.0.qualifier.jar" id="max.tycho-rcp-demo.feature" version="1.0.0.qualifier">
+      <category name="TychorRcpDemo"/>
+   </feature>
+   <category-def name="TychorRcpDemo" label="TychorRcpDemo"/>
+</site>
