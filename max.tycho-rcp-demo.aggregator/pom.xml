@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>max.tychorcpdemo.parent</groupId>
+        <artifactId>max.tycho-rcp-demo.parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../max.tycho-rcp-demo.parent/pom.xml</relativePath>
+    </parent>
+    <artifactId>max.tycho-rcp-demo.aggregator</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../max.tycho-rcp-demo.rcp</module>
+    </modules>
+</project>
