@@ -59,7 +59,7 @@
          point="org.eclipse.core.runtime.products">
       <product
             name="Tycho RCP Demo Application - Eclipse IDE"
-            application="max.tycho-rcp-demo.rcp.application">
+            application="org.eclipse.ui.ide.workbench">
          <property
                name="windowImages"
                value="eclipse16.png,eclipse32.png,eclipse48.png,eclipse256.png">
